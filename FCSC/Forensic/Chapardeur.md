@@ -40,7 +40,7 @@ Ce que nous avons à faire apparaît alors clairement :
 
 On trouve plusieurs résultats, mais la requête GET sur l'ip _203.0.113.42_ semble la plus prometteuse car elle est suivie d'une requête POST sur la même adresse ip.
 
-![chap](https://github.com/sklaer/sklaer.github.io/blob/master/Images/chapardeur_1.PNG)
+![chap]((../../Images/chapardeur_1.PNG)
 
 On exporte donc le contenu des deux requêtes.
 
