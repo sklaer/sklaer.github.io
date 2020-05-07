@@ -1,3 +1,17 @@
 theme: jekyll-theme-hacker
 title: Write-ups CTF
 description: Cette page contient les write-ups des différents CTF auxquels j'ai pu participer.
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE.md
+  - COPYING.md
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
