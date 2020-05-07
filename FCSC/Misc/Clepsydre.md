@@ -10,21 +10,21 @@ On se connecte à l'adresse fournie. On nous demande alors de rentrer un mot de 
 
 On y voit également une citation de Rabelais. Avec le nom du challenge, et sa description en plus, la thématique du temps est récurente.
 
-![cl1](./Images/clepsydre_1.PNG)
+![cl1](https://github.com/sklaer/sklaer.github.io/blob/master/Images/clepsydre_1.PNG)
 
 Aucune autre indication n'est donnée. On essaie donc de rentrer un mot de passe pour voir :
 
-![cl2](./Images/clepsydre_2.PNG)
+![cl2](https://github.com/sklaer/sklaer.github.io/blob/master/Images/clepsydre_2.PNG)
 
 Après plusieures tentatives infructueuses, on remarque un petit détail : si le mot de passe commence par le caractère **T**, la réponse ne vient pas aussi rapidement.
 
 On vérifie :
 
-![cl3](./Images/clepsydre_3.PNG)
+![cl3](https://github.com/sklaer/sklaer.github.io/blob/master/Images/clepsydre_3.PNG)
 
 Puisque c'est la piste la plus probante (pour ne pas dire la seule), autant la suivre. Après plusieurs essais, il s'avère que si l'on adjoint un **3** à notre **T** initial, alors la réponse met ~2s. Cela semble prometreur !
 
-![cl4](./Images/clepsydre_4.PNG)
+![cl4](https://github.com/sklaer/sklaer.github.io/blob/master/Images/clepsydre_4.PNG)
 
 Visiblement, à chaque caractère, le temps de réponse augmente d'une seconde, il n'y a donc plus qu'a scripter la recherche (script naïf largement améliorable).
 
@@ -48,6 +48,6 @@ def main():
 
 On finit par obtenir le mot de passe : **T3mp#!**
 
-![cl5](../Images/clepsydre_5.PNG)
+![cl5](https://github.com/sklaer/sklaer.github.io/blob/master/Images/clepsydre_5.PNG)
 
-[Retour à l'accueil.](./index.md)
+[Retour à l'accueil.](https://sklaer.github.io/)
