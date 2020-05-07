@@ -1,5 +1,7 @@
 # Randomito - 50
 
+-   [Retour à l'accueil.](../../index.md)
+
 ## Description
 
 `Pourrez-vous deviner le secret aléatoire généré ?`
@@ -40,6 +42,6 @@ La variable **secret** est créée de façon similaire à **check**, à partir d
 
 Ainsi, puisque **secret_a** et **secret_b** sont généré avant la demande de saisie de **a** et **b**, il suffit d'affecter à **a** et **b** les valeurs des variables **secret_a** et **secret_b**.
 
-![randomito](./Images/randomito.PNG)
+![randomito](../../Images/randomito.PNG)
 
-[Retour à l'accueil.](./index.md)
+-   [Retour à l'accueil.](../../index.md)

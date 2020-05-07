@@ -1,5 +1,7 @@
 # Chapardeur de mots de passe - 200
 
+-   [Retour à l'accueil.](../../index.md)
+
 ## Description
 
 ```
@@ -106,4 +108,4 @@ _DRAPEAU_P|us2peurQue2M4l!  R4ssur3z-Votre-Am1-Et-vo1c1Votredr4peau_FCSC
 _DRAPEAU_
 ```
 
-[Retour à l'accueil.](https://sklaer.github.io/)
+-   [Retour à l'accueil.](../../index.md)

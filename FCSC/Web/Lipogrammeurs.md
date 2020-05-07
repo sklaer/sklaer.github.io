@@ -1,5 +1,7 @@
 # Lipogrammeurs - 200
 
+-   [Retour à l'accueil.](../../index.md)
+
 ## Description
 
 `Vous avez trouvé cette page qui vous semble étrange. Pouvez-vous nous convaincre qu'il y a effectivement un problème en retrouvant le flag présent sur le serveur ?`
@@ -100,7 +102,7 @@ Impeccable ! En effet, à l'évaluation php estime que nos constantes non défin
 
 On vérifie :
 
-![lipo1](./Images/lipogrammeurs_1.PNG)
+![lipo1](../../Images/lipogrammeurs_1.PNG)
 
 Nous avons fait le plus dur, reste désormais à récupérer le flag à l'aide de la payload suivante :
 
@@ -111,10 +113,10 @@ Nous avons fait le plus dur, reste désormais à récupérer le flag à l'aide d
 
 Aurions-nous eu tout faux ?
 
-![lipo2](./Images/lipogrammeurs_2.PNG)
+![lipo2](../../Images/lipogrammeurs_2.PNG)
 
 On se rappelle que le flag était un fichier php, une inspection des sources aura tôt fait de nous rassurer :
 
-![lipo3](./Images/lipogrammeurs_3.PNG)
+![lipo3](../../Images/lipogrammeurs_3.PNG)
 
-[Retour à l'accueil.](./index.md)
+-   [Retour à l'accueil.](../../index.md)
