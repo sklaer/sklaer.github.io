@@ -1,5 +1,7 @@
 # Clepsydre - 200
 
+-   [Retour à l'accueil.](https://sklaer.github.io/)
+
 ## Description
 
 `À l'origine, la clepsydre est un instrument à eau qui permet de définir la durée d'un évènement, la durée d'un discours par exemple. On contraint la durée de l’évènement au temps de vidage d'une cuve contenant de l'eau qui s'écoule par un petit orifice. Dans l'exemple du discours, l'orateur doit s'arrêter quand le récipient est vide. La durée visualisée par ce moyen est indépendante d'un débit régulier du liquide ; le récipient peut avoir n'importe quelle forme. L'instrument n'est donc pas une horloge hydraulique (Wikipedia).`
@@ -50,4 +52,4 @@ On finit par obtenir le mot de passe : **T3mp#!**
 
 ![cl5](https://github.com/sklaer/sklaer.github.io/blob/master/Images/clepsydre_5.PNG)
 
-[Retour à l'accueil.](https://sklaer.github.io/)
+-   [Retour à l'accueil.](https://sklaer.github.io/)
