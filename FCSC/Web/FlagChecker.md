@@ -118,4 +118,6 @@ $ python3 flag.py
 FCSC{7e2d4e5ba971c2d9e944502008f3f830c5552caff3900ed4018a5efb77af07d3}
 ```
 
-![flch2](../../Images/flag_checker_2.PNG)
+![flch2](./Images/flag_checker_2.PNG)
+
+[Retour à l'accueil.](./index.md)

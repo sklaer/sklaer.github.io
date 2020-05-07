@@ -38,7 +38,7 @@ Ce que nous avons à faire apparaît alors clairement :
 
 On trouve plusieurs résultats, mais la requête GET sur l'ip _203.0.113.42_ semble la plus prometteuse car elle est suivie d'une requête POST sur la même adresse ip.
 
-![chap](../../Images/chapardeur_1.PNG)
+![chap](./Images/chapardeur_1.PNG)
 
 On exporte donc le contenu des deux requêtes.
 
@@ -105,3 +105,5 @@ _DRAPEAU_P|us2peurQue2M4l!  R4ssur3z-Votre-Am1-Et-vo1c1Votredr4peau_FCSC
 {469e8168718996ec83a92acd6fe6b9c03c6ced2a3a7e7a2089b534baae97a7}
 _DRAPEAU_
 ```
+
+[Retour à l'accueil.](./index.md)
